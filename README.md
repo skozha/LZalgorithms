@@ -1,0 +1,2 @@
+# LZalgorithms
+LZ algorithms visualization
